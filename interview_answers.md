@@ -3,6 +3,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What are the main differences between a stateful and a functional component?
 
+
 2. When does a componentWillMount function be called? What about a componentWillUpdate?
 
 3. Define stateful logic.
